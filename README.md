@@ -1,2 +1,2 @@
 # tic-tac-toe
-Its a intesting game.
+Its a intresting game.
